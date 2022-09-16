@@ -1,4 +1,4 @@
-# Ejemplo Parcial Práctico 1
+# Juan Camilo Colmenares Ortiz
 
 ## Instrucciones
 
